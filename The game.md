@@ -1,3 +1,5 @@
+## The game
+
 We as people of the 21st century first world country are not yet ready for the power and autonomy we are given with respect to our daily lives. Most would regard this as anti freedom, but we should first ask what does free mean. Do we really want free? Is a completely free market free? Is an unpoliced state free? Is a society in which anybody can go around raping and killing anybody in there sight a free state. 
 
 My stance is this I don't believe we as people are not ready for the daily freedom we are given by ourselves to ourselves. This is not a statement about society but our maturity of our own personal philosophical intention and direction.
@@ -12,7 +14,7 @@ With Camus and his absurdist views he provides an answer to this in a passive se
 
 Abstractly we need a game to play, some play by the rules, some cheat and some are good but a game nevertheless. You can even cheat if there is no game to play. This game is a responsibility. Being a mother, a father, a friend, or even a career like an engineer. We all play games. Without a game there is nothing. There is distraction, ignorance and pleasure. We have to suffer in the game, it has to be tough, enduring and frustrating. But not to worry, you feel this because you care. You care about being great. 
 
-Why do we romanticize a long for simpler times?
+Why do we romanticize and long for simpler times?
 
 I don't know if I want this much self inflicted freedom, I need responsibilities, for I need a game to play. 
 
