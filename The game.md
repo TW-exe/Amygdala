@@ -1,4 +1,11 @@
-## The game
+---
+layout: post
+title: "The game"
+date: 2023-01-01 12:00:00 -0500
+author: 21st century monkey
+---
+
+# The game
 
 We as people of the 21st century first world country are not yet ready for the power and autonomy we are given with respect to our daily lives. Most would regard this as anti freedom, but we should first ask what does free mean. Do we really want free? Is a completely free market free? Is an unpoliced state free? Is a society in which anybody can go around raping and killing anybody in there sight a free state. 
 
