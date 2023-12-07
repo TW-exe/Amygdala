@@ -1,4 +1,5 @@
 TW-exe.github.io/Amygdala
-|-- index.md
-|-- The game.md
-|-- _config.yml (optional, for Jekyll configuration)
+theme: jekyll-theme-cayman
+header_pages:
+  - index.md
+  - about.md
