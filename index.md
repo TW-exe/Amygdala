@@ -1,3 +1,3 @@
-# Welcome to My GitHub Pages Site
+# Welcome to My thoughts
 
-This is a basic static website using GitHub Pages.
+Please take all with a pinch of salt
