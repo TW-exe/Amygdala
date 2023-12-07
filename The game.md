@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The game"
-date: 2023-01-01 12:00:00 -0500
 author: 21st century monkey
 ---
 
