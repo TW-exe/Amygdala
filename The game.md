@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The game"
+title: The game
 author: 21st century monkey
 ---
 
